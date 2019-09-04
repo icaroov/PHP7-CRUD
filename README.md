@@ -1,8 +1,6 @@
-#PHP7 CRUD
-CRUD simples 
 <hr>
   
-  <h3>Usando:</h3>
+  <h3>CRUD simples usando:</h3>
 
 <ul>
 
